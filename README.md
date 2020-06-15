@@ -3,6 +3,9 @@
 ## Overview
 This repository contains an app that will calculate the trending topics from a fixed set of RSS feeds.  Currently the application uses the RSS feeds provided by CNN, NYTimes and Fox News.
 
+## Built with
+This app uses typescript and node.js (koa and koa-router for the server). AVA is used as the test runner.
+
 ## How to run the application
 1. Clone the repository
 2. Navigate to the directory and run `npm install` (requires node.js)
